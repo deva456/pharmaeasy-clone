@@ -4,7 +4,7 @@ CLONED WEBSITE https://pharmeasyclone2.netlify.app/
 
 
 An Online Platform for Healthcare.
-A Collaborative Project Build By 4 members.
+A Individually Project Build By me.
 Live Code Base
 Tech Stack: React | Redux | Json-Server | Chakra UI
 Features :
